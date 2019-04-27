@@ -1,0 +1,11 @@
+1. git에서 원격 저장소 만들기
+2. git clone 주소  입력해서 저장소 내려받기
+3. git add .
+4. git commit -m "메시지"
+5. git push orgin master 푸시하기
+(git status는 변화 보는 것)
+
+(git remote로 직접연결해도됨)
+(새 컴퓨터에서 처음 push할 때 email이랑 name 설정해야함)
+(push할 때 로그인도 해야할 수도 있음)
+
