@@ -3,12 +3,12 @@
 
 
 ### 처음 만들 때
-echo "# test" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/enjoyPG/test.git
-git push origin master
+echo "# test" >> README.md<br>
+git init<br>
+git add README.md<br>
+git commit -m "first commit"<br>
+git remote add origin https://github.com/enjoyPG/test.git<br>
+git push origin master<br>
 
 ### 작업한거 올릴 때
 git add .
